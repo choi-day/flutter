@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp()); //앱 구동시켜주세요
+  runApp(const MyApp());
 }
  //아래 5줄은 기줄
 class MyApp extends StatelessWidget {
